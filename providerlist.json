@@ -1,0 +1,20 @@
+[
+	{
+		name: "CNN",
+		icon: "images/cnn_icoon.jpg",
+		logo: "images/cnn_logo.png",
+		sections: {
+			"en" : [
+				{
+					name: "Top Stories"
+					url: "http://rss.cnn.com/rss/cnn_topstories.rss"
+				},
+				{
+					name: "World"
+					url: "http://rss.cnn.com/rss/cnn_world.rss"
+				},
+			]
+		}
+		
+	}
+]
